@@ -1,0 +1,6 @@
+[submodule "simplegram_bot"]
+	path = simplegram_bot
+	url = https://github.com/VagifMammadaliyev/simplegram_bot
+[submodule "simplegram"]
+	path = simplegram
+	url = https://github.com/VagifMammadaliyev/simplegram
